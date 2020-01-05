@@ -33,7 +33,7 @@
 # >>>[อ่านวิธีติดตั้งเพิ่มเติมคลิ้ก](https://mindphp.com/%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/83-python/6755-install-python-anaconda-on-windows-10.html) <<<
 
 
-## หรือเสิช Google ตามภาพ
+## หรือเสิร์ช Google ตามภาพ
 ![text](2020-01-05.png)
 
 # 2. การใช้งาน Google Colab
@@ -53,7 +53,7 @@
 5. สามารถเขียนโค้ด โดยใช้าษา python ต่อได้เลย
 ![text](colab5.jpg)
 
-## ***การเขียนcodeใน Colab คือการเขียนโปรแกรมด้วย Pythonซึ่งต้องเชื่อต่อ internet ตลอดเวลา
+## ***การเขียนcodeใน Colab คือการเขียนโปรแกรมด้วย Pythonซึ่งต้องเชื่อมต่อ internet ตลอดเวลา
 
 # 3. การใช้งาน Github และ Anaconda
 1. ทำการเข้าใช้งาน Github >>>[คลิ้กตรงนี้](https://github.com/)<<< และทำการสมัครใช้งานให้เรียบร้อย
@@ -80,6 +80,11 @@
 ![text](github10.jpg)
 ![text](github11.jpg)
 ![text](github12.jpg)
+
+### ดูคำสั่งการใช้งานต่างๆเพิ่มเติม >>>[คลิ้ก](https://www.markdownguide.org/cheat-sheet/)<<<
+
+### การติดตั้งโปรแกรม Virsual studio >>>[คลิ้ก](https://medium.com/jed-ng/installation-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-ms-visual-studio-2017-community-ea0f42a15785)<<<
+
 
 
 
